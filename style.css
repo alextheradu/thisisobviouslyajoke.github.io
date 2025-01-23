@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 50px;
     cursor: pointer;
 }
 h1 {
@@ -12,7 +12,8 @@ h1 {
 }
 
 .top-row {
-    padding: 20px;
+    padding: 0px;
+    justify-content: space-between;
 }
 
 .bottom-row {
@@ -24,7 +25,7 @@ h1 {
     display: flex;
     gap: 20px;
     justify-content: center;
-    padding: 20px;
+    /* padding: 20px; */
 }
 .image-container img {
     width: 250px;
