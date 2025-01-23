@@ -10,24 +10,11 @@ h1 {
     text-align: center;
     color: #FF5733;
 }
-.top-row {
-    margin-top: 5vh;
-    display: flex;
-    height: 5vh;
-    width: 5vw;
-    align-items: center;
-    padding: 10vw;
+
+.top-row{
+     padding: 20px;
 }
-.image1{
-    height: 5vh;
-    width: 5vw; 
-    padding: 10px;
-}
-.image-container {
-    display: flex;
-    gap: 20px;
-    padding: 0px;
-}
+
 .bottom-row {
     padding: 10px;
 }
