@@ -38,15 +38,15 @@ h1 {
     width: 250px;
     height: auto;
 }
-.button {
-    background-color: none; /* Green */
+.button-container {
     border: 15px royalblue;
-    color: linear-gradient(to bottom right, rgb(194, 248, 0), rgb(7, 181, 200));
     padding: 15px 32px;
-    text-align: center;
-    align-items: center;
-    text-decoration: rebeccapurple;
-    display: inline-block;
-    font-size: 16px;
+    display: grid;
+    place-items: center;
+    text-decoration-color: rebeccapurple;
     box-shadow: 1px 2px 5px #000000;
+  }
+
+  .more {
+    color: linear-gradient(to bottom right, rgb(194, 248, 0), rgb(7, 181, 200));
   }
