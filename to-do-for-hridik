@@ -1,0 +1,4 @@
+add a button on top that says "find more serenities" and when you click it, it takes you to serenities online
+not an api
+its javascript, which you will learn
+btw you're gonna use functions. don't use onClick, which is the easier method but this is more fun
